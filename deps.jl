@@ -1,3 +1,5 @@
+#!/bin/env julia
+
 import Pkg;
 
 Pkg.add("BSON")
